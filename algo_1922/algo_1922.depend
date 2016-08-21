@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470232976 source:c:\users\ativ\documents\codeblocks\algo_1922\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<tuple>
+	<functional>
+
