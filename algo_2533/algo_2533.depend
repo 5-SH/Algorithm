@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1471126077 source:c:\users\ativ\documents\codeblocks\algo_2533\main.cpp
-	<iostream>
-	<vector>
-	<string.h>
-	<algorithm>
-	<queue>
-
