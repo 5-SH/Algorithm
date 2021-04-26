@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f004a280-4734-44ac-b8d6-10b52f0add65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/algo_1003/algo_1003.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1003/algo_1003.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1003/algo_1003.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1003/bin/Debug/algo_1003.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1003/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1003/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10814/algo_10814.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10814/algo_10814.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10814/algo_10814.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10814/bin/Debug/algo_10814.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10814/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10814/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10989/algo_10989.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10989/algo_10989.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10989/algo_10989.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10989/bin/Debug/algo_10989.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10989/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_10989/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11060/algo_11060.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11060/algo_11060.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11060/bin/Debug/algo_11060.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11060/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11060/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11066/algo_11066.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11066/algo_11066.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11066/algo_11066.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11066/bin/Debug/algo_11066.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11066/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11066/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1149/algo_1149.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1149/algo_1149.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1149/algo_1149.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1149/bin/Debug/algo_1149.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1149/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1149/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11656/algo_11656.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11656/algo_11656.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11656/algo_11656.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11656/bin/Debug/algo_11656.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11656/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11656/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11657/algo_11657.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11657/algo_11657.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11657/algo_11657.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11657/bin/Debug/algo_11657.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11657/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_11657/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1254/algo_1254.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1254/algo_1254.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1254/algo_1254.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1254/bin/Debug/algo_1254.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1254/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1254/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1325/algo_1325.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1325/algo_1325.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1325/algo_1325.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1325/bin/Debug/algo_1325.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1325/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1325/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1328/algo_1328.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1328/algo_1328.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1328/algo_1328.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1328/bin/Debug/algo_1328.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1328/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1328/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_14499/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_14502/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_14890/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/algo_1753.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/algo_1753.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/algo_1753.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/bin/Debug/algo_1753.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1753/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1793/algo_1793.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1793/algo_1793.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1793/algo_1793.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1793/bin/Debug/algo_1793.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1793/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1793/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1916/algo1_1916.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1916/algo1_1916.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1916/algo1_1916.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1916/bin/Debug/algo1_1916.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1916/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1916/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1922/algo_1922.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1922/algo_1922.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1922/algo_1922.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1922/bin/Debug/algo_1922.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1922/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1922/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1937/algo_1937.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1937/algo_1937.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1937/algo_1937.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1937/bin/Debug/algo_1937.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1937/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_1937/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2098/algo_2098.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2098/algo_2098.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2098/bin/Debug/algo_2098.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2098/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2098/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2169/algo_2169.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2169/algo_2169.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2169/algo_2169.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2169/bin/Debug/algo_2169.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2169/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2169/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2178/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2178/Main_DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2281/algo_2281.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2281/algo_2281.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2281/algo_2281.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2281/bin/Debug/algo_2281.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2281/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2281/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2309/algo_2309.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2309/algo_2309.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2309/algo_2309.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2309/bin/Debug/algo_2309.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2309/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2309/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2533/algo_2533.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2533/algo_2533.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2533/algo_2533.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2533/bin/Debug/algo_2533.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2533/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2533/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/algo_2616.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/algo_2616.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/algo_2616.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/bin/Debug/algo_2616.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/dp_재귀이용.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2616/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2624/algo_2624.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2624/algo_2624.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2624/algo_2624.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2624/bin/Debug/algo_2624.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2624/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2624/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2666/algo_2666.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2666/algo_2666.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2666/algo_2666.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2666/bin/Debug/algo_2666.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2666/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_2666/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5525/algo2_5525.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5525/algo2_5525.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5525/algo2_5525.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5525/bin/Debug/algo2_5525.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5525/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5525/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5557/algo_5557.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5557/algo_5557.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5557/algo_5557.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5557/bin/Debug/algo_5557.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5557/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5557/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5582/algo_5582.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5582/algo_5582.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5582/algo_5582.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5582/bin/Debug/algo_5582.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5582/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_5582/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/algo_6549.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/algo_6549.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/algo_6549.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/bin/Debug/algo_6549.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6549/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6996/algo_6996.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6996/algo_6996.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6996/bin/Debug/algo_6996.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6996/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_6996/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7569/algo_7569.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7569/algo_7569.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7569/algo_7569.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7569/bin/Debug/algo_7569.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7569/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7569/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7576/algo_7576.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7576/algo_7576.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7576/algo_7576.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7576/bin/Debug/algo_7576.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7576/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_7576/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_8741/algo_8741.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_8741/algo_8741.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_8741/algo_8741.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_8741/bin/Debug/algo_8741.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_8741/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_8741/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/algo_9251.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/algo_9251.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/algo_9251.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/bin/Debug/algo_9251.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9251/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9465/algo_9465.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9465/algo_9465.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9465/algo_9465.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9465/bin/Debug/algo_9465.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9465/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9465/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/algo_9935.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/algo_9935.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/algo_9935.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/bin/Debug/algo_9935.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_9935/obj/Debug/main.o" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rheXQ8VCppQEg7ghG7TIYLUvMa" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f004a280-4734-44ac-b8d6-10b52f0add65" name="Default Changelist" comment="" />
+      <created>1619432790084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619432790084</updated>
+    </task>
+    <servers />
+  </component>
+</project>

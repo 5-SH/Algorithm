@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470609308 source:c:\users\ativ\documents\codeblocks\algo_1793\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
