@@ -1,4 +1,4 @@
-package 직사각형_별찍기;
+package programmers.직사각형_별찍기;
 
 import java.util.Scanner;
 
