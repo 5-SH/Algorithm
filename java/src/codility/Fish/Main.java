@@ -14,11 +14,9 @@ public class Main {
     System.out.println(builder.toString());
   }
 
+  // TODO: 시간 복잡도 해결 필요
   static public int solution(int[] A, int[] B) {
     for (int i = B.length - 1; i >= 0; i--) {
-//      System.out.println("OUT");
-//      print(B);
-
       int start;
       int end;
       if (B[i] == 1) {
@@ -34,14 +32,8 @@ public class Main {
               B[end] = -1;
             }
           }
-
-//          System.out.println("IN");
-//          print(B);
         }
-
       }
-
-
     }
 
     int count = 0;
