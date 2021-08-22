@@ -1,6 +1,7 @@
 package codility.MaxProfit;
 
 public class Main {
+    // TODO: 시간복잡도 해결 필요
     static public int solution(int[] A) {
         // write your code in Java SE 8
         int max = 0;
