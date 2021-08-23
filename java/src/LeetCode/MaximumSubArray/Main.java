@@ -1,6 +1,6 @@
-package LeetCode;
+package LeetCode.MaximumSubArray;
 
-public class MaximumSubArray {
+public class Main {
     // 카데인 알고리즘
     static public int maxSubArray(int[] nums) {
         if (nums.length == 1) return nums[0];
